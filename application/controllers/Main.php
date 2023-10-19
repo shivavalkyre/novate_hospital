@@ -14,8 +14,13 @@ class Main extends CI_Controller {
 	
 	public function loginApp()
 	{
-		$username = $this->input->post('username');
-		$password = md5($this->input->post('password'));
+		$username = $_POST['username'];
+		$password =  md5($_POST['password']);
+		// echo json_encode($username);
+		// echo json_encode($password);
+		// $username = $this->input->post('username');
+		// $password = md5($this->input->post('password'));
+
 		$data = array("username"=>$username, "password"=>$password);
 
 		$cek = $this->model_main->cek_login("users",$data)->num_rows();

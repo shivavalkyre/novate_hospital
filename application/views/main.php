@@ -35,10 +35,10 @@
     <div id="form_login" class="easyui-panel" title="" style="width:300px;height:210px;padding:10px;box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);border-radius:5px;background:white;">
         <form id="fmLogin" class="easyui-form" method="post" data-options="novalidate:true">
             <div style="margin-bottom:10px">
-                <input class="easyui-textbox" label="Username:" labelPosition="top" name="username" data-options="tipPosition:'bottom',prompt:'Username',required:true" style="width:100%;">
+                <input id="username" class="easyui-textbox" label="Username:" labelPosition="top" name="username" data-options="tipPosition:'bottom',prompt:'Username',required:true" style="width:100%;">
             </div>
             <div style="margin-bottom:15px">
-                <input class="easyui-passwordbox" label="Password:" labelPosition="top" name="password" prompt="Password" data-options="tipPosition:'bottom',required:true" iconWidth="28" style="width:100%;">
+                <input id="password" class="easyui-passwordbox" label="Password:" labelPosition="top" name="password" prompt="Password" data-options="tipPosition:'bottom',required:true" iconWidth="28" style="width:100%;">
             </div>
             <div>
             <a href="#" class="easyui-linkbutton"  style="width:100%;height:40px;" onclick="loginApp()">Login</a>

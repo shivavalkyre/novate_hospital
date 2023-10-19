@@ -51,7 +51,7 @@
 					            logoff();
 				            }
 			            ">
-                            <div data-options="iconCls:'icon-cancel'" style="min-height:30px;margin-top:0px;"><span style="margin-top:3px;display: block;">Logout</span></div>
+                            <div data-options="iconCls:'icon-cancel'" style="min-height:30px;margin-top:0px;"><span style="margin-top:0px;display: block;">Logout</span></div>
                         </div>
 
                         <div id="mm1" style="width:150px;" data-options="
