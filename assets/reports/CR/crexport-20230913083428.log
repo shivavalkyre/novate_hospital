@@ -1,0 +1,20 @@
+13-09-2023	08:34:28	Crystal Reports Exporter version 2.1.11.1207
+13-09-2023	08:34:28	creport parameters : -f C:\laragon\www\novate\assets\reports\cr\invoice_report.rpt -o C:\laragon\www\novate\assets\reports\invoice_report120230913.pdf -u root -p P@55w0rd -d db_ci_easyui -a inv_id:1 -l 
+13-09-2023	08:34:28	Instantiated ReportDocument object
+13-09-2023	08:34:29	Crystal Reports file C:\laragon\www\novate\assets\reports\cr\invoice_report.rpt loaded
+13-09-2023	08:34:29	Database id = 0
+13-09-2023	08:34:29	Integrated Security = False
+13-09-2023	08:34:29	Default Server Name = novate
+13-09-2023	08:34:29	Default Database Name = 
+13-09-2023	08:34:29	Logon to Database = db_ci_easyui
+13-09-2023	08:34:29	Logon with user id = root
+13-09-2023	08:34:29	Logon with password = P@55w0rd
+13-09-2023	08:34:30	Logon to Database = db_ci_easyui
+13-09-2023	08:34:30	Logon with user id = root
+13-09-2023	08:34:30	Logon with password = P@55w0rd
+13-09-2023	08:34:30	Report Output format set to : pdf
+13-09-2023	08:34:30	Report attribute : HasSavedData = False
+13-09-2023	08:34:30	Discrete Parameter : inv_id = 1
+13-09-2023	08:34:30	Report rows = 1
+13-09-2023	08:34:31	Report exported to : C:\laragon\www\novate\assets\reports\invoice_report120230913.pdf
+13-09-2023	08:34:31	ReportDocument closed

@@ -1,0 +1,17 @@
+15-09-2023	15:21:11	Crystal Reports Exporter version 2.1.11.1207
+15-09-2023	15:21:11	creport parameters : -f C:\laragon\www\novate\assets\reports\cr\sales_report.rpt -o C:\laragon\www\novate\assets\reports\sales_report2120230915.pdf -u root -p P@55w0rd -d db_ci_easyui -a so_id:2 -l 
+15-09-2023	15:21:12	Instantiated ReportDocument object
+15-09-2023	15:21:14	Crystal Reports file C:\laragon\www\novate\assets\reports\cr\sales_report.rpt loaded
+15-09-2023	15:21:14	Database id = 0
+15-09-2023	15:21:14	Integrated Security = False
+15-09-2023	15:21:14	Default Server Name = novate
+15-09-2023	15:21:14	Default Database Name = 
+15-09-2023	15:21:14	Logon to Database = db_ci_easyui
+15-09-2023	15:21:14	Logon with user id = root
+15-09-2023	15:21:14	Logon with password = P@55w0rd
+15-09-2023	15:21:14	Report Output format set to : pdf
+15-09-2023	15:21:14	Report attribute : HasSavedData = False
+15-09-2023	15:21:14	Discrete Parameter : so_id = 2
+15-09-2023	15:21:14	Report rows = 1
+15-09-2023	15:21:16	Report exported to : C:\laragon\www\novate\assets\reports\sales_report2120230915.pdf
+15-09-2023	15:21:16	ReportDocument closed
